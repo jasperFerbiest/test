@@ -9,6 +9,7 @@ een beschrijving geven van de respository
 * opsomming van eventuele nieuwigheden
 * ma natuurlijk
 * jaja dikke bal
+* werkt het
 
 
 ![logo Kisp](Assets/Kisp.png)
